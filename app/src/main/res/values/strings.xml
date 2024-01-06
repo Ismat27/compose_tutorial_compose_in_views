@@ -32,4 +32,8 @@
     <string name="magenta">Magenta</string>
     <string name="apple_juice">Apple juice</string>
     <string name="add_new_juice">add new juice</string>
+    <plurals name="number_of_stars">
+        <item quantity="one">%d star</item>
+        <item quantity="other">%d stars</item>
+    </plurals>
 </resources>
